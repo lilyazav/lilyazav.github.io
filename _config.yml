@@ -1,11 +1,17 @@
-title: Lillian Zavatsky # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Software Engineer with a love of mapping and data analysis.  
+title: Lillian Zavatsky
+logo: "/images/logo.png?raw=true" 
+description: > 
+  Data storyteller with a technical background.
   <br><br>
-  Actively Looking For Work.  
+  I am looking for a data journalism role where I can marry my curiousity, knowledge, and concern about the world with my technical skills. With a degree in Arabic Studies and Economics, experience as a teacher, software engineer, copy-editor, and EMT, I am truly a jack of all trades. I have spent my adult life working in various roles while spending my free time as an activist and community organizer. I am hoping to find a job that is a good match for my passions and my skills.
+  <br>
+  Currently, you can find my riding around in an ambulance, providing the community with splints, glucose, and the occassional compressions. 
+  <br>
+  Computer Languages: R, Clojure, Javascript
+  Favorite Tools: D3.js, QGIS
+  Human Languages: English, Russian, Spanish, Arabic (intermediate)
   <br><br>
-  <a href="https://github.com/lilyazav/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/lillian-zavatsky-02a35427b/">View My LinkedIn Profile</a>
   
   
 remote_theme: pages-themes/minimal@v0.2.0
