@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#title {
+    font-family: sans-serif;
+    color: #a40000;
+}
+
+#logo {
+    border-radius: 20px; 
+    height: 300px; 
+    background: #71c5e0; 
+    margin-left: 41px;
+}
