@@ -1,16 +1,16 @@
-## Portfolio
+## Selected Projects
 
 ---
 
-### Category Name 1 
+### Analysis of Bike Lane Connectivity
 
-[Project 1 Title](/sample_page)
+[Biking](/bike_lane_analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<p>Skills used: </p>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Mesopotamia](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<p>Skills used: </p>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
